@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathaniel</h1>
-<h3 align="center">A backend engineer from Accra, Ghana. I intend to be a citizen of the world! I am passionate about ML and AI.</h3>
+<h3 align="center">Backend engineer from Accra, Ghana. I intend to be a citizen of the world! I am passionate about ML and AI.</h3>
 
 - 🌱 I’m currently learning **Deep Learning Specialization on Cousera**
 
