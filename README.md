@@ -2,7 +2,7 @@
 <h3 align="center">Backend engineer from Accra, Ghana. I intend to be a citizen of the world! I am passionate about ML and AI.</h3>
 
 # 💫 About Me:
-<br>- 🌱 I’m currently learning **Deep Learning Specialization on Cousera<br><br>- 👨‍💻 All of my projects are available at https://asiakn.github.io/<br><br>- 📫 How to reach me **asiaknathan@gmail.com<br><br>- ⚡ Fun fact **I wrote 3 stage plays, starring in one.
+<br>- 🌱 I’m currently taking the **Deep Learning Specialization Course on Cousera<br><br>- 👨‍💻 All of my projects are available at https://asiakn.github.io/<br><br>- 📫 How to reach me **asiaknathan@gmail.com<br><br>- ⚡ Fun fact **I wrote 3 stage plays, starring in one.
 
 
 ## 🌐 Socials:
