@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathaniel</h1>
-<h3 align="center">Backend engineer from Accra, Ghana. I intend to be a citizen of the world! I am passionate about ML and AI.</h3>
+<h3 align="center">Backend engineer from Accra, Ghana.! I am interested in ML,Robotics, and a good engineering problem.</h3>
 
 # 💫 About Me:
 <br>- 🌱 I’m currently taking the **Deep Learning Specialization Course on Cousera<br><br>- 👨‍💻 All of my projects are available at https://asiakn.github.io/ || [![Notion](Notion)](https://asiak.notion.site/Welcome-54da0a2143044412874279704d7f49c1)<br><br>- 📫 How to reach me **asiaknathan@gmail.com<br><br>- ⚡ Fun fact **I wrote and directed 3 stage plays, starring in one.
