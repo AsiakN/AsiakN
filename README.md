@@ -2,7 +2,7 @@
 <h3 align="center">Backend engineer from Accra, Ghana.! I am interested in ML,Robotics, and a good engineering problem.</h3>
 
 # 💫 About Me:
-<br>- 🌱 I’m currently taking the **Deep Learning Specialization Course on Cousera<br><br>- 👨‍💻 All of my projects are available at https://asiakn.github.io/ || [![Notion](Notion)](https://asiak.notion.site/Welcome-54da0a2143044412874279704d7f49c1)<br><br>- ⚡ Fun fact **I wrote and directed 3 stage plays, starring in one.
+<br>- 🌱 I’m currently taking the **Deep Learning Specialization Course on Cousera<br><br>- ⚡ Fun fact **I wrote and directed 3 stage plays, starring in one.
 
 
 ## 🌐 Socials:
