@@ -2,7 +2,7 @@
 <h3 align="center">I am interested in ML, Robotics, and a good engineering problem.</h3>
 
 # 💫 About Me:
-<br>-⚡ Fun fact **I wrote and directed 3 stage plays, starring in one. </br>
+<br>⚡Fun fact: **I wrote and directed 3 stage plays, starring in one.** </br>
 
 
 ## 🌐 Socials:
