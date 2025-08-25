@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nathaniel</h1>
-<h3 align="center">Backend engineer from Accra, Ghana.! I am interested in ML,Robotics, and a good engineering problem.</h3>
+<h3 align="center">I am interested in ML, Robotics, and a good engineering problem.</h3>
 
 # 💫 About Me:
-<br>- 🌱 I’m currently taking the **Deep Learning Specialization Course on Cousera<br><br>- ⚡ Fun fact **I wrote and directed 3 stage plays, starring in one.
+<br>-⚡ Fun fact **I wrote and directed 3 stage plays, starring in one. </br>
 
 
 ## 🌐 Socials:
